@@ -5,7 +5,7 @@ import (
 	"log"
 	"path/filepath"
 
-	"github.com/Kagami/go-face"
+	"github.com/lib-x/go-face"
 )
 
 // Path to directory with models and test images. Here it's assumed it
